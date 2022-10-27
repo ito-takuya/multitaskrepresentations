@@ -1,5 +1,5 @@
 # multitaskrepresentations
-#### Demo code repository for Ito &amp; Murray 2022
+#### Demo code repository for Ito &amp; Murray (2022)
 #### Contacts: taku.ito1@gmail.com; john.murray@yale.edu
 #### Last updated: 10/26/2022
 
