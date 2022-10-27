@@ -19,3 +19,5 @@ King, M., Hernandez-Castillo, C.R., Poldrack, R.A., Ivry, R.B., Diedrichsen, J.,
 `figures/`: contains all figure panels.
 
 `processed_data/`: contains processed (or derivative) data required to generate figure panels in the Jupyter Notebooks. Note that .h5 files are hosted via git LFS due to size constraints.
+
+`code/preprocessing/`: contains all preprocessing scripts that processed the raw MDTB dataset from OpenNeuro. Preprocessing was performed using QuNex (version 0.61.17; [https://qunex.yale.edu/](https://qunex.yale.edu/)). Postprocessing (i.e., task activation estimation) can be found in `code/preprocessing/glm_scripts/`. Note that all preprocessing scripts are provided as-is, as they were all performed on Yale's compute cluster. Preprocessing scripts are provided as a reference for those who wish to adapt them to their needs. Any questions can be directed to taku.ito1@gmail.com.
