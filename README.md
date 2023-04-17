@@ -1,9 +1,9 @@
 # multitaskrepresentations
-#### Demo code repository for Ito &amp; Murray (2022)
+#### Demo code repository for Ito &amp; Murray (2023)
 #### Contacts: taku.ito1@gmail.com; john.murray@yale.edu
 #### Last updated: 1/2/2023
 
-Citation: Ito T, Murray JD (2022). Multitask representations in the human cortex transform along a sensory-to-motor hierarchy. Nature Neuroscience. https://www.nature.com/articles/s41593-022-01224-0
+Citation: Ito T, Murray JD (2023). Multitask representations in the human cortex transform along a sensory-to-motor hierarchy. Nature Neuroscience. https://www.nature.com/articles/s41593-022-01224-0
 
 ## Overview
 
